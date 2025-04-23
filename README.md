@@ -20,12 +20,17 @@ Welcome to a minimalist yet powerful **Command Line Blogging Interface** built w
 - 👨‍💻 **Developer**: Abdullah Owais
 
 
- 💡 Technologies Used
-⚙️ Java 
+## 💡 Technologies Used
+- ⚙️ Java
+- 💻 Any Java IDE
 
-🧪 OOP Concepts: Encapsulation, Interfaces, Constructors
+## 🧠 Concepts Utilized
 
-🧼 Command Line Interface (No GUI!)
+- 🔒 **Encapsulation**: Private variables and controlled access through setters/getters  
+- 🧱 **Abstraction**: Interface (`Menu`) for consistent menu structure  
+- 🧰 **Constructors**: Default and parameterized for flexible user creation  
+- 🔁 **Modularity**: Separated classes for user and interface logic  
+- 🧹 **Code Organization**: Logical package structure for scalability  
 
 ## 🛠 How to Run
 
