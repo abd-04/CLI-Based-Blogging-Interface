@@ -19,8 +19,9 @@ Welcome to a minimalist yet powerful **Command Line Blogging Interface** built w
 - 📘 **Course Title**: Object-Oriented Programming (OOP)  
 - 👨‍💻 **Developer**: Abdullah Owais
 
-- 💡 Technologies Used
-⚙️ Java (CLI-based)
+
+ 💡 Technologies Used
+⚙️ Java 
 
 🧪 OOP Concepts: Encapsulation, Interfaces, Constructors
 
